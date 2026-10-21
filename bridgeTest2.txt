@@ -1,6 +1,7 @@
 class C2 () {
     let ddd ;
     let eee ;
+    let foo ;
     
     function F3 ( Q3 ) { 
         let ccc ;
